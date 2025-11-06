@@ -35,7 +35,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/wahyunur" target="_blank">
+  <a href="www.linkedin.com/in/wahyu-nur-a7247923a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:wahyunur988@gmail.com">
