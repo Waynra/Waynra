@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Wahyu Nur Agustusanto</h1>
-<h3 align="center">A passionate Web Developer & System Builder from Indonesia</h3>
+<h3 align="center">💻 Web Developer | System Builder | Tech Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Bachelor’s Degree in Information Systems** (Universitas Bina Sarana Informatika, 2024) – *Cum Laude (3.89)*  
-- 💼 Currently developing internal systems and dashboards using **Laravel, Vue.js, and MySQL**  
-- 🛍️ Also managing **AdibaStoreOfficial**, a women’s fashion e-commerce brand  
-- 🌱 Currently learning **IT Governance, Cybersecurity, and Data Analytics**  
-- ⚡ Passionate about building real-world solutions that connect **business + technology**
+- 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**, Cum Laude (GPA 3.89)
+- 💼 Experienced in **building web systems** with **Laravel**, **Vue.js**, and **MySQL**
+- 🛍️ Managing my own online brand **AdibaStoreOfficial**
+- 🚀 Passionate about **Digital Business, Data Analysis, and IT Governance**
+- 🧠 Currently learning **ISO 27001, COBIT, ITIL, and Risk Management**
+- ⚡ Always eager to learn, build, and share tech that creates real impact
 
 ---
 
 ### 🧰 Tech Stack
 #### 💻 Languages & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,tailwind,mysql" />
 </p>
 
 #### 🧠 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,composer" />
 </p>
 
@@ -33,29 +34,31 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="www.linkedin.com/in/wahyu-nur-a7247923a">
-    <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:wahyunur988@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-wahyunuragustusanto%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+### 🚀 Highlight Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🧾 **Sales Analytics System** | Dashboard for analyzing sales, imports, and exporting reports (Excel/PDF/CSV). | Laravel 12, FastExcel, DOMPDF |
+| 📦 **PT Rendexindo Logistic System** | Web-based logistics & inventory management system. | Laravel, MySQL, Bootstrap |
+| 🛍️ **AdibaStoreOfficial Dashboard** | E-commerce management system for sales and affiliate tracking. | Laravel + React |
 
 ---
 
-### 💡 Highlight Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧾 **Sales Analytics System** | Laravel-based dashboard to analyze sales, track imports, and export reports (Excel, PDF, CSV). | Laravel 12, FastExcel, DOMPDF |
-| 📦 **PT Rendexindo Logistic System** | Web-based logistics & inventory management system. | Laravel, MySQL, Bootstrap |
-| 🛍️ **AdibaStoreOfficial Dashboard** | E-commerce sales and affiliate performance management tool. | Laravel + React |
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/wahyu-nur-a7247923a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:wahyunuragustusanto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-wahyunuragustusanto%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Waynra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Waynra-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ### ❤️ Motto
 > “Code with purpose, not just syntax.”
 
----
-⭐ **Feel free to explore my repositories or reach out for collaboration!**
+⭐ **Thanks for visiting my profile! Feel free to connect or collaborate.**
