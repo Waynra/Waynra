@@ -35,10 +35,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/wahyunuragustusanto" target="_blank">
+  <a href="https://www.linkedin.com/in/wahyunur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:wahyunuragustusanto@gmail.com">
+  <a href="mailto:wahyunur988@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-wahyunuragustusanto%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
