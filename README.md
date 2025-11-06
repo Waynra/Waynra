@@ -35,7 +35,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/wahyu-nur-a7247923a" target="_blank">
+  <a href="www.linkedin.com/in/wahyu-nur-a7247923a">
     <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:wahyunur988@gmail.com">
@@ -49,7 +49,6 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🧾 **Sales Analytics System** | Laravel-based dashboard to analyze sales, track imports, and export reports (Excel, PDF, CSV). | Laravel 12, FastExcel, DOMPDF |
-| 🏥 **ZZP Markt (Healthcare Platform)** | A freelance healthcare platform inspired by Netherlands system. | Laravel + Vue.js |
 | 📦 **PT Rendexindo Logistic System** | Web-based logistics & inventory management system. | Laravel, MySQL, Bootstrap |
 | 🛍️ **AdibaStoreOfficial Dashboard** | E-commerce sales and affiliate performance management tool. | Laravel + React |
 
