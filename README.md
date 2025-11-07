@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**, Cum Laude (GPA 3.89)
+- 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**,(GPA 3.89 / 4.00)
 - 💼 Experienced in **building web systems** with **Laravel**, **Vue.js**, and **MySQL**
 - 🛍️ Managing my own online brand **AdibaStoreOfficial**
 - 🚀 Passionate about **Digital Business, Data Analysis, and IT Governance**
@@ -39,7 +39,7 @@
 |----------|--------------|------|
 | 🧾 **Sales Analytics System** | Dashboard for analyzing sales, imports, and exporting reports (Excel/PDF/CSV). | Laravel 12, FastExcel, DOMPDF |
 | 📦 **PT Rendexindo Logistic System** | Web-based logistics & inventory management system. | Laravel, MySQL, Bootstrap |
-| 🛍️ **AdibaStoreOfficial Dashboard** | E-commerce management system for sales and affiliate tracking. | Laravel + React |
+| 🛍️ **Sistem Perkuliahan ** |Academic Management System  | tailwindCSS + React |
 
 ---
 
