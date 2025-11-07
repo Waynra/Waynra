@@ -48,8 +48,8 @@
   <a href="https://www.linkedin.com/in/wahyu-nur-a7247923a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Nur%20Agustusanto-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:wahyunuragustusanto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-wahyunuragustusanto%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:wahyunur988@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-wahyunur988%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Waynra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Waynra-black?style=for-the-badge&logo=github" />
