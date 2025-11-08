@@ -6,7 +6,6 @@
 ### 👨‍💻 About Me
 - 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**,(GPA 3.89 / 4.00)
 - 💼 Experienced in **building web systems** with **Laravel**, **Vue.js**, and **MySQL**
-- 🛍️ Managing my own online brand **AdibaStoreOfficial**
 - 🚀 Passionate about **Digital Business, Data Analysis, and IT Governance**
 - 🧠 Currently learning **ISO 27001, COBIT, ITIL, and Risk Management**
 - ⚡ Always eager to learn, build, and share tech that creates real impact
