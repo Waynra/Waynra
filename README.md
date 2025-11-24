@@ -20,7 +20,7 @@
 
 #### 🧠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,composer" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,composer,react" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 |----------|--------------|------|
 | 🧾 **Sales Analytics System** | Dashboard for analyzing sales, imports, and exporting reports (Excel/PDF/CSV). | Laravel 12, FastExcel, DOMPDF |
 | 📦 **PT Rendexindo Logistic System** | Web-based logistics & inventory management system. | Laravel, MySQL, Bootstrap |
-| 🛍️ **Sistem Perkuliahan ** |Academic Management System  | tailwindCSS + React |
+| 🛍️ **Sistem Perkuliahan** |Academic Management System  | tailwindCSS + React |
 
 ---
 
