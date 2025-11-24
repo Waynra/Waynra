@@ -15,12 +15,12 @@
 ### 🧰 Tech Stack
 #### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,python,css,bootstrap,tailwind,mysql,react," />
 </p>
 
 #### 🧠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,composer,react" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,composer," />
 </p>
 
 ---
