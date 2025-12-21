@@ -15,7 +15,7 @@
 ### 🧰 Tech Stack
 #### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,python,css,bootstrap,tailwind,mysql,react," />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,python,css,bootstrap,tailwind,go,mysql,react," />
 </p>
 
 #### 🧠 Tools & Platforms
