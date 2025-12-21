@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**,(GPA 3.89 / 4.00)
-- 💼 Experienced in **building web systems** with **Laravel**, **Vue.js**, and **MySQL**
 - 🚀 Passionate about **Digital Business, Data Analysis, and IT Governance**
 - 🧠 Currently learning **ISO 27001, COBIT, ITIL, and Risk Management**
 - ⚡ Always eager to learn, build, and share tech that creates real impact
@@ -20,7 +19,7 @@
 
 #### 🧠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,laragon,composer," />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,docker,laragon,xampp,composer," />
 </p>
 
 ---
