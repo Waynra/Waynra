@@ -20,7 +20,7 @@
 
 #### 🧠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,composer," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,laragon,composer," />
 </p>
 
 ---
