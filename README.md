@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wahyu Nur</h1>
-<h3 align="center">💻 Web Developer | System Builder | Tech Enthusiast</h3>
+<h3 align="center">💻 Web Developer | System Builder 
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Graduated with **Bachelor's Degree in Information Systems (S1)** from **Universitas Bina Sarana Informatika**,(GPA 3.89 / 4.00)
 - 🚀 Passionate about **Digital Business, Data Analysis, and IT Governance**
 - 🧠 Currently learning **ISO 27001, COBIT, ITIL, and Risk Management**
 - ⚡ Always eager to learn, build, and share tech that creates real impact
